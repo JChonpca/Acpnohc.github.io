@@ -1,0 +1,86 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chonpca.cn" resolutions="1x,2x" timestamp="1589193352124">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_____.css" crc="3967977369" ref="经济学:其他工作:生物学:index:数学建模"/>
+    <file name="___1.css" crc="3798263125" ref="经济学"/>
+    <file name="____1.css" crc="3953817175" ref="其他工作"/>
+    <file name="___.css" crc="284958507" ref="生物学"/>
+    <file name="index.css" crc="4065602877" ref="index"/>
+    <file name="____.css" crc="186530567" ref="数学建模"/>
+  </folder>
+  <folder name="assets">
+    <file name="《区域经济学》（马工程）.pdf" crc="4098218315" seo="true" mt="1587185638000"/>
+    <file name="geo_moran_plot.py" crc="3961472439" seo="true" mt="1588999279000"/>
+    <file name="spadaflow.pdf" crc="58963568" seo="true" mt="1589174209000"/>
+    <file name="code.rar" crc="521902699" seo="true" mt="1589174091000"/>
+    <file name="dgmrna-0912.py" crc="231676629" seo="true" mt="1568282157000"/>
+    <file name="生态价值估计.pdf" crc="3920602564" seo="true" mt="1572694066000"/>
+    <file name="codes.rar" crc="351271877" seo="true" mt="1589173984000"/>
+    <file name="会议报告-生物元件设计-杨鸣宇-黄佳城.pdf" crc="3853452918" seo="true" mt="1564068418000"/>
+    <file name="⑤-ouc-ribolego【天津】.pdf" crc="4279173736" seo="true" mt="1589179648000"/>
+    <file name="luwen.pdf" crc="4118544106" seo="true" mt="1557070750000"/>
+    <file name="2019-建模校赛支撑材料_b题_model333.rar" crc="454041301" seo="true" mt="1589171324000"/>
+    <file name="05384.pdf" crc="216067411" seo="true" mt="1535705251000"/>
+    <file name="a905488.pdf" crc="3938649166" seo="true" mt="1555281572000"/>
+    <file name="a905488附件.rar" crc="276519626" seo="true" mt="1555281910000"/>
+    <file name="1920491.pdf" crc="4178992377" seo="true" mt="1548723698000"/>
+    <file name="190129.rar" crc="355868780" seo="true" mt="1589171687000"/>
+    <file name="smart-skin,-our-general-framework-of-smart-skincare.pdf" crc="3765341729" seo="true" mt="1551341581000"/>
+    <file name="ouc-china_-presentation-_jiacheng-huang.pdf" crc="298854608" seo="true" mt="1540690254000"/>
+    <file name="a201815011026_黄佳城_但心怡_李晓慧.pdf" crc="3769124687" seo="true" mt="1537106148000"/>
+    <file name="源程序.rar" crc="97818135" seo="true" mt="1537098834000"/>
+    <file name="2018深圳杯初步研究报告_b_文明富强_黄佳城.pdf" crc="281357536" seo="true" mt="1582653864000"/>
+    <file name="85782.pdf" crc="298664542" seo="true" mt="1589172092000"/>
+    <file name="共享单车初始投放权的分配模式研究.pdf" crc="3898333309" seo="true" mt="1589173397000"/>
+    <file name="a-2017夏_黄佳城_李鑫军_曲延旭.pdf" crc="281451201" seo="true" mt="1505781293000"/>
+    <file name="a-2017夏_黄佳城_李鑫军_曲延旭_支撑材料.rar" crc="300494597" seo="true" mt="1505684956000"/>
+    <file name="数学建模-课程论文-黄佳城-韩天宇-奚东宇.pdf" crc="161343777" seo="true" mt="1589172523000"/>
+    <file name="数学建模ppt-黄佳城-韩天宇-奚东宇.pptx" crc="3813197404" seo="true" mt="1589172519000"/>
+    <file name="正文.pdf" crc="58664633" seo="true" mt="1490972679000"/>
+    <file name="科技进步对对海洋渔业的影响.pptx--修复的-.pptx" crc="4284470913" seo="true" mt="1536777427000"/>
+    <file name="南少林寺游记.doc" crc="4250979795" seo="true" mt="1589179151000"/>
+    <file name="1_竞赛论文.pdf" crc="45588785" seo="true" mt="1568626336000"/>
+    <file name="2019.9国赛.rar" crc="4076193115" seo="true" mt="1589184156000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:数学建模:生物学:经济学:其他工作"/>
+    <file name="museutils.js" crc="3803043152" ref="index:数学建模:生物学:经济学:其他工作"/>
+    <file name="whatinput.js" crc="86476730" ref="index:数学建模:生物学:经济学:其他工作"/>
+    <file name="museconfig.js" crc="380897831" ref="index:数学建模:生物学:经济学:其他工作"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:数学建模:生物学:经济学:其他工作"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:数学建模:生物学:经济学:其他工作"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:数学建模:生物学:经济学:其他工作"/>
+    <file name="require.js" crc="4157109226" ref="index:数学建模:生物学:经济学:其他工作"/>
+  </folder>
+  <folder name="images">
+    <file name="qq图片20181107222657-crop-u3858.jpg" crc="3986664515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="微信图片_20200511033807-crop-u3854.jpg" crc="14460914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="微信图片_20200511033807-crop-u3854_2x.jpg" crc="3888767398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20200511162123.jpg" crc="3800656929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="qq截图20180525193520.jpg" crc="52248244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="qq截图20180525193520_2x.jpg" crc="3811754942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4915405" seo="true" mt="1589193337071" redirect="true"/>
+  <file name="数学建模.html" crc="3962256660" seo="true" mt="1589193310009" redirect="true"/>
+  <file name="生物学.html" crc="3826337471" seo="true" mt="1589193310009" redirect="true"/>
+  <file name="经济学.html" crc="4027649131" seo="true" mt="1589193310009" redirect="true"/>
+  <file name="其他工作.html" crc="3878843211" seo="true" mt="1589193310009" redirect="true"/>
+</manifest>
